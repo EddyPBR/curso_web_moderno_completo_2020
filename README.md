@@ -9,7 +9,7 @@
 <br />
 
 ## :eyes: Visão Geral 
-  O Curso Desenvolvimento Web Moderno Completo da @Cod3r cursos é voltado para todos os níveis de programadores: Iniciantes, intermediários e avançados. Um curso de desenvolvimento web <b>zero to hero</b>, onde são abordados diversos conceitos como: Frontend, Backend, tipos de bancos de dados, mas indo além tambem é muito bem abordado conceitos de lógica de programação, paradigmas de programação usados na Web Moderna: Funcional, Orientação a Objeto e etc. Aplicações Web baseadas em Componentes e mais.
+  O Curso Desenvolvimento Web Moderno Completo da @cod3rcursos é voltado para todos os níveis de programadores: Iniciantes, intermediários e avançados. Um curso de desenvolvimento web <b>zero to hero</b>, onde são abordados diversos conceitos como: Frontend, Backend, tipos de bancos de dados, mas indo além tambem é muito bem abordado conceitos de lógica de programação, paradigmas de programação usados na Web Moderna: Funcional, Orientação a Objeto e etc. Aplicações Web baseadas em Componentes e mais.
 <br /><br />
 
 ## :interrobang: Porquê deste projeto
@@ -51,11 +51,11 @@
 <br />
 
 ## :smile: Minha opinião e pedido
-  O curso web moderno completo da cod3r é excelente pela qualidade e quantidade de conteúdo abordado, um valor que é extremamente acessível. O mesmo pode ser adquirido no site oficial da <a href="https://www.cod3r.com.br/collections">Cod3r</a> ou na <a href="https://www.udemy.com/course/curso-web/">Udemy</a> além disso a #Cod3r vem atualizando seu conteúdo conforme novidades vão surgindo, para ficar ainda mais atento ao conteúdo recomento acessar o canal da <a href="https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ">cod3r no youtube</a> lá pode-se encontrar conteúdo para desenvolvedores e até mesmo para o desenvolvimento pessoal e profissional geral.
+  O curso web moderno completo da cod3r é excelente pela qualidade e quantidade de conteúdo abordado, um valor que é extremamente acessível. O mesmo pode ser adquirido no site oficial da <a href="https://www.cod3r.com.br/collections">Cod3r</a> ou na <a href="https://www.udemy.com/course/curso-web/">Udemy</a> além disso a #cod3rcursos vem atualizando seu conteúdo conforme novidades vão surgindo, para ficar ainda mais atento ao conteúdo recomento acessar o canal da <a href="https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ">cod3r no youtube</a> lá pode-se encontrar conteúdo para desenvolvedores e até mesmo para o desenvolvimento pessoal e profissional geral.
 <br /><br />
 
 ## :pray:	Agradecimento
-   Embora eu tenha adquirido o curso da #cod3r comprando, eu sou extremamento grato por todo o conteúdo passado e o preço acessível no qual eles disponibilizam os cursos, parte do meu desenvolvimento profissional e pessoal se deve a esses caras.
+   Embora eu tenha adquirido o curso da #cod3rcursos comprando, eu sou extremamento grato por todo o conteúdo passado e o preço acessível no qual eles disponibilizam os cursos, parte do meu desenvolvimento profissional e pessoal se deve a esses caras.
 <br /><br />
    
 ## :wave: Vamos ser sociais
