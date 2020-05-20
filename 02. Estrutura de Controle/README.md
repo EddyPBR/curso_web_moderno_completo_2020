@@ -5,13 +5,12 @@
   <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" alt="Udemy" width="180">
 </p>
 <br />
-<h2 align="center">01. Fundamentos</h2>
+<h2 align="center">02. Estrutura de Controles</h2>
 <br />
 
 ## :eyes: Visão Geral 
-  No capítulo de fundamentos são abordados conceitos básicos das linguagens de programação,
-  estrutura, comentários, estruturas condicionais, estruturas de repetição, tipagem, tipos de
-  variavéis em javascript e mais.
+  No capítulo de estruturas de controle é abordado o conceito de laços de repetição, condicionais
+  e alguns outros artíficios em javascript e mais.
 <br /><br />
    
 ## :wave: Vamos ser sociais
