@@ -16,7 +16,7 @@
 
 const stringPontuacoes = "10, 20, 20, 8, 25, 3, 0, 30, 1";
 
-const atividade08 = (pontuacoes) => {
+const pontuacoes = (pontuacoes) => {
   pontuacoes = pontuacoes.split(',').map( (pontuacao) => parseInt(pontuacao.trim()) );
 
   let maior = 0;
@@ -34,4 +34,4 @@ const atividade08 = (pontuacoes) => {
   return [numeroDeVezes - 1, indiceMenor + 1];
 }
 
-console.log(atividade08(stringPontuacoes));
+console.log(pontuacoes(stringPontuacoes));

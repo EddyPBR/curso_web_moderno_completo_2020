@@ -12,7 +12,7 @@
 
 const arredondamentoParaCinco = (valor) => Math.ceil(valor/5) * 5;
 
-const atividade09 = (nota) => {
+const situacaoDoAluno = (nota) => {
   if (nota <= 35) return "Não foi possível arredondar a nota, aluno foi Reprovado!";
 
   const novaNota = arredondamentoParaCinco(nota);
@@ -20,7 +20,7 @@ const atividade09 = (nota) => {
   if (novaNota >= 40) return `Nota arredondada para: ${novaNota}, aluno foi Aprovado!`;
 }
 
-console.log(atividade09(31));
-console.log(atividade09(35));
-console.log(atividade09(37));
-console.log(atividade09(41));
+console.log(situacaoDoAluno(31));
+console.log(situacaoDoAluno(35));
+console.log(situacaoDoAluno(37));
+console.log(situacaoDoAluno(41));

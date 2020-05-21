@@ -9,8 +9,8 @@
  * retorne R$0,30 (observe a vírgula e o ponto).
  */
 
-const atividade05 = (val) => console.log(`R$: ${val.toFixed(2).toString().replace(".", ",")}`);
+const formatacaoEmReal = (val) => console.log(`R$: ${val.toFixed(2).toString().replace(".", ",")}`);
 
-atividade05(0.30000000000000004);
-atividade05(0.35000000000000004);
-atividade05(3.55000000000000004);
+formatacaoEmReal(0.30000000000000004);
+formatacaoEmReal(0.35000000000000004);
+formatacaoEmReal(3.55000000000000004);

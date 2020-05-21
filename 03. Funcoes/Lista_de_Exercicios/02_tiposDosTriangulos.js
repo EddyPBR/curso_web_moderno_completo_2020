@@ -8,15 +8,15 @@
  * (Neste exemplo deve-se abstrair as condições matemáticas de existência de um triângulo).
  */
 
-const atividade02 = (a, b, c) => {
+const tiposDeTriangulos = (a, b, c) => {
   if(a === b && a === c) return("Equilátero");
   if(a === b || a === c || b === c) return("Isósceles");
   if(a !== b && a !== c && b !== c) return("Escaleno");
 }
 
-console.log(atividade02(1, 1, 1));
-console.log(atividade02(1, 1, 2));
-console.log(atividade02(1, 2, 2));
-console.log(atividade02(1, 2, 2));
-console.log(atividade02(1, 2, 3));
-console.log(atividade02(3, 2, 1));
+console.log(tiposDeTriangulos(1, 1, 1));
+console.log(tiposDeTriangulos(1, 1, 2));
+console.log(tiposDeTriangulos(1, 2, 2));
+console.log(tiposDeTriangulos(1, 2, 2));
+console.log(tiposDeTriangulos(1, 2, 3));
+console.log(tiposDeTriangulos(3, 2, 1));

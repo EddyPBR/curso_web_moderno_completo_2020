@@ -3,11 +3,11 @@
  * por 3 e retorne true ou false.
  */
 
-const atividade10 = (num) => {
+const divisivelPorTres = (num) => {
   if (num % 3 === 0) return true;
   return false;
 }
 
-console.log(atividade10(3));
-console.log(atividade10(2));
-console.log(atividade10(150));
+console.log(divisivelPorTres(3));
+console.log(divisivelPorTres(2));
+console.log(divisivelPorTres(150));
