@@ -26,7 +26,7 @@ const calculaBhaskara = (ax2, bx , c) => {
   [ax2, bx, c] = soNumeros([ax2, bx , c]);
   const delta = calculaDelta(ax2, bx, c);
 
-  if (delta <= 0) return "delta é negativo!";
+  if (delta < 0) return "delta é negativo!";
 
   const x1 = (-bx + Math.sqrt(delta)) / (2 * ax2);
   const x2 = (-bx - Math.sqrt(delta)) / (2 * ax2);
