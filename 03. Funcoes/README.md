@@ -5,12 +5,12 @@
   <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" alt="Udemy" width="180">
 </p>
 <br />
-<h2 align="center">03.1) Funções Atividades</h2>
+<h2 align="center">03. Funções</h2>
 <br />
 
 ## :eyes: Visão Geral 
-  Este é o diretório de exercicios referente ao capítulo de funções, são dados desafios
-  e com os conceitos ja abordados deve-se resolvê-los. :)
+  No capítulo de funções são abordados os tipos de funções, parametros e comportamentos das funções.
+  Funções anônimas, arrow functions, são alguns exemplos de funções abordadas nesse capítulo.
 <br /><br />
    
 ## :wave: Vamos ser sociais
