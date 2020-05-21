@@ -10,11 +10,6 @@
  * pois atingirá 40 e o aluno será aprovado.
  */
 
-function round5(x)
-{
-    return Math.ceil(x/5)*5;
-}
-
 const arredondamentoParaCinco = (valor) => Math.ceil(valor/5) * 5;
 
 const atividade09 = (nota) => {
