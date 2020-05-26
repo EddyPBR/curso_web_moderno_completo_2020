@@ -1,0 +1,28 @@
+// iniciando um projeto
+yarn init
+npm init
+
+/**
+ * peceba que foi criando um arquivo chamado package.json,
+ * lá contem as informações do seu projeto, e pacotes que são necessários
+ * bem como as dependecias de desenvolvedores.
+*/
+
+// instalando um pacote chamado axios
+yarn add axios
+npm install axios
+
+/**
+ * observe novamente o pacote json, existe agora um novo campo chamado "dependencies",
+ * essas são as dependencias do projeto atual. E axios é uma das dependecias que existem.
+*/
+
+// instalando um pacote apenas para fase de desenvolvimento
+yarn add -D nodemon
+npm install --save-dev nodemon
+
+/**
+ * observe novamente o pacote json, existe agora um novo campo chamado "devDependencies",
+ * essas são as dependencias para fase de Desenvolvimento do projeto atual. 
+ * E nodemon é uma das dependecias que existem.
+*/
