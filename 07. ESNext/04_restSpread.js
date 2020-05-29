@@ -8,12 +8,12 @@
 const funcionario = {
   nome: 'Maria',
   salario: 8700.30
-}
+};
 
 const clone = {
   ativo: true,
   ...funcionario
-}
+};
 
 // usar spread com array
 const grupoA = ['João', 'Pedro', 'Glória'];
