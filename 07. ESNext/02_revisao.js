@@ -17,7 +17,7 @@ function log(texto = 'Node') {
 log();
 log('Sou mais forte!');
 
-// operador rest e spread
+// operador rests
 function total(...numeros) {
   let total = 0;
   numeros.forEach( n => total += n);
