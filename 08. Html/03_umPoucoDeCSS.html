@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Um pouco de css</title>
+
+  <style>
+    h1 {
+      font-size: 20px;
+    }
+
+    .fundoVermelho {
+      background-color: #C00;
+    }
+
+    .negrito {
+      font-weight: bold;
+    }
+
+    #textoPrincipal {
+      font-size: 40px;
+      font-weight: bold;
+      color: #FFF;
+      padding: 10px;
+      background-color: #444;
+    }
+
+    [wm-atrib] {
+      animation: fadeIn-fadeOut 1s ease-in-out infinite alternate-reverse;
+    }
+
+    @keyframes fadeIn-fadeOut {
+      from { 
+        opacity: 1;
+      } 
+      to {
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>CSS</h1>
+  <span id="textoPrincipal">Texto 1</span>
+  <span class="fundoVermelho negrito" wm-atrib>Texto 2</span>
+</body>
+</html>
