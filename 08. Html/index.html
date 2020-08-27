@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercícios HTML</title>
+</head>
+<body>
+  <header>
+    Exercícios HTML
+  </header>
+
+  <nav>
+    <a href wm-nav="exercicios/teste.html">00 - Teste</a>
+  </nav>
+
+  <section id="conteudo"></section>
+
+  <footer>
+    <br />
+    Curso web moderno
+  </footer>
+
+  <script>
+    const links = document.querySelectorAll("[wm-nav]");
+    const conteudo = document.getElementById("conteudo");
+
+    function carregamentoDinamico(url) {
+      fetch(url)
+        .then(response => response.text())
+        .then(html => conteudo.innerHTML = html);
+    }
+
+    links.forEach( (link) => {
+      link.onclick = function(event) {
+        event.preventDefault();
+        carregamentoDinamico(link.getAttribute("wm-nav"))
+      }
+    });
+  </script>
+</body>
+</html>
