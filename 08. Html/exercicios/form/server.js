@@ -19,5 +19,4 @@ app.post("/usuarios/:id", (request, response) => {
   response.send("<h1>Parabéns. Usuário alterado!</h1>");
 });
 
-
 app.listen(3333);
