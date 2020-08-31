@@ -4,6 +4,10 @@
 </video>
 
 <div wm-progresso="meuVideo" class="progresso">
+  <h1 id="alerta">
+    Caso a barra de carregamento vermelha não carregue, abra o servidor somente para essa página.
+  </h1>
+
   <div></div>
 </div>
 
@@ -31,6 +35,10 @@
 </style>
 
 <script>
+  /* removendo alerta */
+  const alerta = document.getElementById("alerta");
+  alerta.style.display = "none";
+  
   function configurarVideo(id) {
     const video = document.getElementById(id);
     video.oncontextmenu = () => false;
